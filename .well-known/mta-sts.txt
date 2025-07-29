@@ -1,5 +1,4 @@
 version: STSv1
-mode: none
-mx: mail.protonmail.ch
-mx: mailsec.protonmail.ch
+mode: enforce
+mx: mail.adriandylanwulf.de
 max_age: 86400
