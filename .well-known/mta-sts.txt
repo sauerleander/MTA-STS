@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx02.mail.icloud.com
-mx: mx01.mail.icloud.com
-max_age: 60
+mx: smtp.google.com
+max_age: 259200
