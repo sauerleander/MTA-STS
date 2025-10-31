@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: adriandylanwulf-de.mail.protection.outlook.com
+mx: smtp.google.com
 max_age: 86400
